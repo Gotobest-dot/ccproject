@@ -1,0 +1,10 @@
+# 桌面番茄钟 - 依赖
+#
+# 本项目仅使用 Python 标准库，无需安装额外依赖。
+# Python 3.8+ 即可运行。
+#
+# 如需打包为 Windows exe：
+# pip install pyinstaller
+# pyinstaller --onefile --windowed --name "番茄钟" pomodoro.py
+#
+# pyinstaller
